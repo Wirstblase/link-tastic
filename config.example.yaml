@@ -1,0 +1,6 @@
+# copy to config.yaml and fill with your data
+channel_name: linkhome   # your private secondary channel, found by name
+psk_hex: 0x...           # optional: exact key check at startup, omit to skip
+allowed_ids:             # !nodeids that may run commands (your t-deck)
+  - "!abc12345"
+port: null               # null = auto-detect; else /dev/ttyUSB0 (Pi) or /dev/cu.usbmodemXXXX (mac)
