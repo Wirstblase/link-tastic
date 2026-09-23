@@ -20,7 +20,9 @@ it would be cool to control smart-home stuff without needing a phone.
 for now,
 
 `help` : list commands
+
 `status` : returns server disk usage
+
 `boom` : fires missile:D
 
 Unknown senders get logged and ignored. Replies go out on the private channel only.
